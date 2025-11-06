@@ -47,6 +47,7 @@ data_pipeline_compare/performance_report.json
 # Dagster
 .dagster/
 dagster-data/
+.tmp_dagster_home*/
 
 # Prefect
 .prefect/
